@@ -1,0 +1,6 @@
+C:\Documents\Test Applications\FlightsWCF\FlightsWCF\bin\FlightsWCF.dll.config
+C:\Documents\Test Applications\FlightsWCF\FlightsWCF\bin\FlightsWCF.dll
+C:\Documents\Test Applications\FlightsWCF\FlightsWCF\bin\FlightsWCF.pdb
+C:\Documents\Test Applications\FlightsWCF\FlightsWCF\obj\Debug\FlightsWCF.csprojResolveAssemblyReference.cache
+C:\Documents\Test Applications\FlightsWCF\FlightsWCF\obj\Debug\FlightsWCF.dll
+C:\Documents\Test Applications\FlightsWCF\FlightsWCF\obj\Debug\FlightsWCF.pdb
